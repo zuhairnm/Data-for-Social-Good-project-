@@ -29,8 +29,8 @@ Calories (Strng): Amount of calories per food item
 ## UML Diagram 
 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+![alt text](image.png)
 
 ## Description 
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project
+The project is designed to help users view nutritional information on differnt foods so that they can create a propper diet for themselves This project using concepts such as data handling, arrays, methods, and control structures. These components succesfully address the goal of showing the aound of calories and serving size per food item 
